@@ -1,5 +1,5 @@
-var Divide   = require ('./divide');
-var Multiply = require ('./multiply');
+var Divide   = require ('./Divide');
+var Multiply = require ('./Multiply');
     
 class Calculator {
         calculate(operator, firstNumber, secondNumber) {
